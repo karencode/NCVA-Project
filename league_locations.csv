@@ -1,0 +1,148 @@
+,age,league_123,division,location
+12#1Gold,12,1,Gold,Rancho Cordova Event Center
+12#1Silver,12,1,Silver,Skylane Facility
+12#1Bronze,12,1,Bronze,NB CourtsSite Updated 2/14
+12#2Gold,12,2,Gold,West HS
+12#2Silver,12,2,Silver,Florin HS
+12#2Bronze,12,2,Bronze,El Molino HSSite Updated 3/7
+12#3Gold,12,3,Gold,Sonoma State University
+12#3Silver,12,3,Silver,Windsor HS
+12#3Bronze,12,3,Bronze,Pleasant Grove HS
+13#1Silver,13,1,Silver,Edison HS
+13#1Gold,13,1,Gold,Mare Island Sports Complex
+13#1Bronze,13,1,Bronze,Livingston HS
+13#1Aqua,13,1,Aqua,Solano Community College
+13#1Blue,13,1,Blue,Rancho Cordova Event Center
+13#1Copper,13,1,Copper,Los Medanos College
+13#1Dusk,13,1,Dusk,Edison HS
+13#2Gold,13,2,Gold,Gunn HS - Bow Gym
+13#2Silver,13,2,Silver,Mare Island Sports Complex
+13#2Bronze,13,2,Bronze,Sonoma State University
+13#2Blue,13,2,Blue,Gunn HS - Titan Gym
+13#2Copper,13,2,Copper,Rancho Cordova Event Center
+13#2Aqua,13,2,Aqua,Cabrillo College
+13#2Dusk,13,2,Dusk,Heritage HS
+13#3Gold,13,3,Gold,Edison HS
+13#3Silver,13,3,Silver,NB Courts
+13#3Bronze,13,3,Bronze,El Camino HS
+13#3Blue,13,3,Blue,Dougherty Valley HS
+13#3Copper,13,3,Copper,Dougherty Valley HS
+13#3Aqua,13,3,Aqua,Livingston HS
+13#3Dusk,13,3,Dusk,NB Courts
+14#1Gold,14,1,Gold,Rancho Cordova Event Center
+14#1Silver,14,1,Silver,Clovis HS
+14#1Bronze,14,1,Bronze,West HS
+14#1Aqua,14,1,Aqua,NB Courts
+14#1Blue,14,1,Blue,Edison HS
+14#1Copper,14,1,Copper,Solano Community College
+14#1Dusk,14,1,Dusk,Monte Vista HS
+14#1Evergreen,14,1,Evergreen,Sonoma State Univ
+14#1Fuchsia,14,1,Fuchsia,Sonoma State Univ
+14#2Silver,14,2,Silver,Woodside HS
+14#2Gold,14,2,Gold,San Jose State University
+14#2Bronze,14,2,Bronze,Florin HS
+14#2Blue,14,2,Blue,Monte Vista HS
+14#2Aqua,14,2,Aqua,Rancho Cordova Event Center
+14#2Copper,14,2,Copper,North Salinas HS
+14#2Evergreen,14,2,Evergreen,Analy HS
+14#2Dusk,14,2,Dusk,Moreau Catholic HS
+14#2Fuchsia,14,2,Fuchsia,West HS
+14#3Gold,14,3,Gold,NB Courts
+14#3Silver,14,3,Silver,Yuba City HS
+14#3Bronze,14,3,Bronze,Chowchilla HS
+14#3Aqua,14,3,Aqua,Gunn HS - Bow Gym
+14#3Blue,14,3,Blue,Elk Grove HS
+14#3Copper,14,3,Copper,El Molino HS
+14#3Dusk,14,3,Dusk,Pleasant Grove HS
+14#3Evergreen,14,3,Evergreen,Piner HS
+14#3Fuchsia,14,3,Fuchsia,Gunn HS - Titan Gym
+15#1Gold,15,1,Gold,Woodside HS
+15#1Silver,15,1,Silver,Clovis HS
+15#1Bronze,15,1,Bronze,Hoover HS
+15#1Aqua,15,1,Aqua,Cosumnes River College
+15#1Blue,15,1,Blue,Rancho Cordova Event Center
+15#1Copper,15,1,Copper,El Camino HS
+15#1Dusk,15,1,Dusk,Yuba City HS
+15#1Evergreen,15,1,Evergreen,Alisal HS
+15#1Fuchsia,15,1,Fuchsia,Edison HS
+15#1Green,15,1,Green,Anzar HS
+15#2Gold,15,2,Gold,Rancho Cordova Event Center
+15#2Silver,15,2,Silver,Rancho Cordova Event Center
+15#2Bronze,15,2,Bronze,San Jose State University
+15#2Aqua,15,2,Aqua,Mare Island Sports Center
+15#2Blue,15,2,Blue,Los Medanos College
+15#2Copper,15,2,Copper,NorCal Courts
+15#2Dusk,15,2,Dusk,SportsHouse
+15#2Evergreen,15,2,Evergreen,El Camino HS
+15#2Fuchsia,15,2,Fuchsia,Rancho Cordova Event Center
+15#2Green,15,2,Green,Freedom HS
+15#3Gold,15,3,Gold,Buchanan HS - East Gym (REC)
+15#3Silver,15,3,Silver,Hartnell College
+15#3Bronze,15,3,Bronze,Florin HS
+15#3Aqua,15,3,Aqua,Livingston HS
+15#3Blue,15,3,Blue,North Salinas HS
+15#3Copper,15,3,Copper,Hilmar HS
+15#3Dusk,15,3,Dusk,Hoover HS
+15#3Evergreen,15,3,Evergreen,Skylane Facility
+15#3Fuchsia,15,3,Fuchsia,Woodside HS
+15#3Green,15,3,Green,Rancho Cordova Event Center
+16#1Gold,16,1,Gold,Cabrillo College
+16#1Silver,16,1,Silver,Placer HS
+16#1Bronze,16,1,Bronze,Buchanan HS
+16#1Aqua,16,1,Aqua,Rancho Cordova Event Center
+16#1Blue,16,1,Blue,William Jessup University
+16#1Copper,16,1,Copper,N. Salinas HS
+16#1Dusk,16,1,Dusk,Everett Alvarez HS
+16#1Evergreen,16,1,Evergreen,Mare Island Sports Center
+16#1Fuchsia,16,1,Fuchsia,Skylane Facility
+16#1Green,16,1,Green,Alta Sierra MS
+16#2Gold,16,2,Gold,Menlo Atherton HS
+16#2Silver,16,2,Silver,La Sierra Community Center
+16#2Aqua,16,2,Aqua,Windsor HS
+16#2Blue,16,2,Blue,Mare Island Sports Center
+16#2Copper,16,2,Copper,Rancho Cordova Event Center
+16#2Dusk,16,2,Dusk,Yuba City HS
+16#2Evergreen,16,2,Evergreen,Pleasant Grove HS
+16#2Green,16,2,Green,El Molino HS
+16#2Bronze,16,2,Bronze,El Camino HS
+16#2Fuchsia,16,2,Fuchsia,Florin HS
+16#3Gold,16,3,Gold,Buchanan HS
+16#3Silver,16,3,Silver,Livingston HS
+16#3Bronze,16,3,Bronze,Sonoma State University
+16#3Aqua,16,3,Aqua,Yuba City HS
+16#3Blue,16,3,Blue,El Camino HS
+16#3Copper,16,3,Copper,Hilmar HS
+16#3Dusk,16,3,Dusk,Heritage HS
+16#3Evergreen,16,3,Evergreen,Rancho Cordova Event Center
+16#3Fuchsia,16,3,Fuchsia,Cabrillo College
+16#3Green,16,3,Green,Rancho Cordova Event Center
+18-17#1Gold,18-17,1,Gold,Dougherty Valley HS
+18-17#1Silver,18-17,1,Silver,Rancho Cordova Event Center
+18-17#1Bronze,18-17,1,Bronze,Clovis North HS
+18-17#1Aqua,18-17,1,Aqua,Placer HS
+18-17#1Blue,18-17,1,Blue,El Camino HS
+18-17#1Copper,18-17,1,Copper,Cabrillo College
+18-17#1Dusk,18-17,1,Dusk,Granite Ridge MS
+18-17#1Evergreen,18-17,1,Evergreen,Los Medanos College
+18-17#1Green,18-17,1,Green,Reedley College
+18-17#1Fuchsia,18-17,1,Fuchsia,Reedley College
+18-17#2Gold,18-17,2,Gold,Cosumnes River College
+18-17#2Silver,18-17,2,Silver,SportsHouse
+18-17#2Bronze,18-17,2,Bronze,Tracy HS
+18-17#2Aqua,18-17,2,Aqua,Solano Community College
+18-17#2Blue,18-17,2,Blue,Hoover HS
+18-17#2Copper,18-17,2,Copper,Rancho Cordova Event Center
+18-17#2Dusk,18-17,2,Dusk,Cabrillo College
+18-17#2Evergreen,18-17,2,Evergreen,Clovis HS
+18-17#2Fuchsia,18-17,2,Fuchsia,Freedom HS
+18-17#2Green,18-17,2,Green,Rancho Cordova Event Center
+18-17#3Gold,18-17,3,Gold,San Jose State University
+18-17#3Silver,18-17,3,Silver,Hoover HS
+18-17#3Bronze,18-17,3,Bronze,Rancho Cordova Event Center
+18-17#3Aqua,18-17,3,Aqua,Cabrillo College
+18-17#3Copper,18-17,3,Copper,SportsHouse
+18-17#3Dusk,18-17,3,Dusk,Rancho Cordova Event Center
+18-17#3Evergreen,18-17,3,Evergreen,El Camino HS
+18-17#3Fuchsia,18-17,3,Fuchsia,Rancho Cordova Event Center
+18-17#3Green,18-17,3,Green,El Molino HS
+18-17#3Blue,18-17,3,Blue,Hilmar HS
